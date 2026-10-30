@@ -1,0 +1,8 @@
+org/example/PessoaVisitor.class
+org/example/Curso.class
+org/example/Pessoa.class
+org/example/Aluno.class
+org/example/Funcionario.class
+org/example/PessoaJsonVisitor.class
+org/example/Visitor.class
+org/example/Professor.class
